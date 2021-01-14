@@ -70,7 +70,7 @@ html {
     left: 27vw;
 }
 
-.buscador input {
+.buscador input{
     border-radius: 2rem;
     width: 45vw;
     height: 4.5rem;
@@ -79,7 +79,10 @@ html {
     color: black;
     padding-left: 1rem;
 }
-
+.buscador input:hover {
+    box-shadow: 0 1px 6px 0 #23212447;
+    border-color: #dfe1e500;
+}
 #lupa{
     width: 2rem;
     height: 2rem;
