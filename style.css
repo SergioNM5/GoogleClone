@@ -81,7 +81,7 @@ html {
 }
 .buscador input:hover {
     box-shadow: 0 1px 6px 0 #23212447;
-    border-color: #dfe1e500;
+    border-color: black
 }
 #lupa{
     width: 2rem;
